@@ -1,0 +1,6 @@
+﻿{
+  "BlockLocalIP": false,
+  "StoreMessages": true,
+  "UseSMTPS": false,
+  "CheckReverseDnsLookup":  false
+}
